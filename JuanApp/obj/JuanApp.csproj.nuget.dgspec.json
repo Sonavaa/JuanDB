@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sonava\\Desktop\\JuanApp\\JuanApp\\JuanApp.csproj": {}
+    "C:\\Users\\sonava\\Desktop\\JuanDB\\JuanApp\\JuanApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sonava\\Desktop\\JuanApp\\JuanApp\\JuanApp.csproj": {
+    "C:\\Users\\sonava\\Desktop\\JuanDB\\JuanApp\\JuanApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sonava\\Desktop\\JuanApp\\JuanApp\\JuanApp.csproj",
+        "projectUniqueName": "C:\\Users\\sonava\\Desktop\\JuanDB\\JuanApp\\JuanApp.csproj",
         "projectName": "JuanApp",
-        "projectPath": "C:\\Users\\Sonava\\Desktop\\JuanApp\\JuanApp\\JuanApp.csproj",
-        "packagesPath": "C:\\Users\\Sonava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sonava\\Desktop\\JuanApp\\JuanApp\\obj\\",
+        "projectPath": "C:\\Users\\sonava\\Desktop\\JuanDB\\JuanApp\\JuanApp.csproj",
+        "packagesPath": "C:\\Users\\sonava\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sonava\\Desktop\\JuanDB\\JuanApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sonava\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sonava\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,6 +58,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.28, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
